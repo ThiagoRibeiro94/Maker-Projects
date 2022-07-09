@@ -11,4 +11,7 @@ EN: The image above is the circuit on Thinkercad
 
 ![image](https://user-images.githubusercontent.com/69684536/177902520-66ac8f30-ddbc-4f42-bfee-278f3b1624a0.png)
 
+PT-BR: Abaixo também é possível ver o código funcionando.
+EN: In the picture you can see the circut working.
 
+![WhatsApp Image 2022-07-08 at 22 15 42](https://user-images.githubusercontent.com/69684536/178086281-afe29fdc-515e-4f10-a990-bd25f4540b4f.jpeg)
